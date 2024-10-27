@@ -1,7 +1,6 @@
 {
-    "type": "module",
-    "dependencies": {
-      "openai": "latest"
-    }
+  "type": "module",
+  "dependencies": {
+    "openai": "latest"
   }
-  
+}
